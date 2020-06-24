@@ -23,7 +23,7 @@
 - Potenciar la creatividad, la imaginación y el diseño.
 
 
-## Contenidos
+## [Contenidos/Índice](./0.0.indice.md)
 
 ### Sesión 0: Presentación
 
